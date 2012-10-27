@@ -1,0 +1,30 @@
+{
+    "name": "zmq-mdp02",
+    "version": "0.1",
+    "private": false,
+    "description": "Implementation of ZeroMQ Majordomo Protocol (MDP) v0.2 protocol for Node.JS",
+    "contributors": [
+        {
+          "name": "nuh-temp",
+          "email": "nuh.temp@gmail.com"
+        },
+        {
+          "name": "genbit",
+          "email": "sergey.genbit@gmail.com"
+        }
+    ],
+    "keywords": [
+        "nodejs",
+        "zmq",
+        "zeromq",
+        "mdp",
+        "Majordomo"
+    ],
+    "dependencies": {
+        "zmq": "",
+        "debug": ""
+    },
+    "engine": {
+        "node": ">=0.8"
+    }
+}
